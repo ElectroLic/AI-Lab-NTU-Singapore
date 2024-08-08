@@ -4,6 +4,6 @@ An AI project of NTU in SINGAPORE
 There are 3 project of different ways to run AI to solve a reality question (Pneumonia)
 This blog is going keep the methods and codes of how to achieve that, for review it later...
 /.../
-1. First we use cloud: by drive.google.com.
+1. First we use cloud: by drive.google.com. (colab.research.com)
 2. Introduce the data base into the file where we have our description codes.
 3. Run every code sentense one by one to see the accuracy and loss.
